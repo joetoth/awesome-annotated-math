@@ -14,3 +14,5 @@ https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527
 https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
 
 http://robertmunro.com/Uncertainty_Sampling_Cheatsheet_PyTorch.pdf
+
+https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
